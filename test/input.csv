@@ -1,0 +1,8 @@
+,Age,AnnualIncome,ChronicDiseases,EmploymentType,EverTravelledAbroad,FamilyMembers,FrequentFlyer,GraduateOrNot,InsurancePolicy
+1,35,950000,No,Private,No,9,No,No,1
+2,29,1200000,No,Private,No,5,No,Yes,0
+3,25,600000,No,Private,No,4,Yes,No,0
+4,26,550000,No,Government,No,5,No,Yes,1
+5,26,1400000,Yes,Private,Yes,4,No,Yes,1
+6,29,350000,Yes,Private,No,9,No,Yes,0
+7,28,300000,Yes,Government,No,3,No,Yes,0
